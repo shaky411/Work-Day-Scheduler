@@ -1,7 +1,3 @@
-
-
-
-let timeSlots = document.querySelector('.container');
 let timeBlock = $('.time-block');
 let currentHour = moment();
 
@@ -26,7 +22,7 @@ let timeItem = $(this).parent().attr('id');
 localStorage.setItem(timeItem, textItem);
 });
 
-
+// Loop through the time-blocks
 function getItems () {
 
     $(".time-block").each(function () {

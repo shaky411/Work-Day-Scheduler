@@ -37,6 +37,8 @@ https://shaky411.github.io/Work-Day-Scheduler
 
 ![Alt text](challenge/images/SCR-20230125-7.png)
 
+![Alt text](challenge/images/SCR-20230125-goo.png)
+
 ## Credits
 
 N/A
